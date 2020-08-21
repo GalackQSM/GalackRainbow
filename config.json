@@ -1,6 +1,6 @@
 {
     "token": "TOKEN",
-    "serveurID": "ID",
+    "serverID": "ID",
     "roleID": "ID",
 
     "interval": "30000"
