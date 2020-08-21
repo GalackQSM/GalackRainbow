@@ -1,0 +1,7 @@
+{
+    "token": "TOKEN",
+    "serveurID": "ID",
+    "roleID": "ID",
+
+    "interval": "30000"
+}
