@@ -27,3 +27,6 @@ A quoi sert GalackRainbow:
 *   [Discord](https://discord.gg/XH7zQ8s)
 *   [Twitter](https://twitter.com/Galack_QSM)
 *   [Github](https://github.com/GalackQSM/)
+
+## DEMO
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.gyazo.com/eb4d4ddfaa14657a3d2e52b0eb769acb.mp4" height="200" width="350"/>
