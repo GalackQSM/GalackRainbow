@@ -29,4 +29,4 @@ A quoi sert GalackRainbow:
 *   [Github](https://github.com/GalackQSM/)
 
 ## DEMO
-<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/Qmkov4w.gif" height="400" width="700"/>
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/Qmkov4w.gif"/>
